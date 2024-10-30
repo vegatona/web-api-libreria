@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "7cJJjqm8Fuzr+sYYuYzqdDbTB04lQNFtb8j0E9OL9+Es4a05hq+yGadDZdprUBuoE0M+VRWigmHnJkQFh2EoWg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\CD15\\Desktop\\Práctica 3.1 - Crear Web Api - Crear proyecto y subir repo\\libreriaa_JOVT\\libreriaa_JOVT.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CD15\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\CD15\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\CD15\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\CD15\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\CD15\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\CD15\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
